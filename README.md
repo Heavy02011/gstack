@@ -81,6 +81,8 @@ when Claude Code has gstack installed. Paste this to your OpenClaw agent:
 See [docs/OPENCLAW.md](docs/OPENCLAW.md) for advanced dispatch routing and
 the gstack-lite/gstack-full prompt templates.
 
+For a compact operator reference across every prompt and skill, see [docs/skills-cheatsheet.md](docs/skills-cheatsheet.md).
+
 ### Native OpenClaw Skills (via ClawHub)
 
 Four methodology skills that work directly in your OpenClaw agent, no Claude Code
